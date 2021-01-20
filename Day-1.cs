@@ -44,3 +44,13 @@ namespace SanthoshDemos
         }
     }  
 }
+
+/*
+ input = 5
+ Output:
+      *
+     **
+    ***
+   ****
+  *****
+  */
