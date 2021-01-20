@@ -1,3 +1,13 @@
+/*
+input = 5
+Output:
+      *
+     **
+    ***
+   ****
+  *****
+*/
+
 using System;
 using System.Security.Cryptography;
 using BCrypt.Net;
@@ -45,12 +55,4 @@ namespace SanthoshDemos
     }  
 }
 
-/*
- input = 5
- Output:
-      *
-     **
-    ***
-   ****
-  *****
-  */
+
