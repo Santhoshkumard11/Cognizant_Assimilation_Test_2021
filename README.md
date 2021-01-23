@@ -5,3 +5,10 @@
 Basics programs
 
 YouTube Video Link -> https://youtu.be/YYBLze7BsKk
+
+
+## Day 2
+
+E-Commerce Store
+
+YouTube Video Link -> https://youtu.be/b-HNheSh5YY
